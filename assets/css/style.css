@@ -1,6 +1,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
   color: #1D1D1D;
+  background-color: #F9F9F9;
 }
 
 .row {
@@ -21,7 +22,7 @@ h1 {
   margin: 0;
   margin-left: -2px;
   font-size: 2.2em;
-  color: #BC002D;
+  color: #e72207;
 }
 
 h1:last-of-type {
@@ -35,7 +36,7 @@ header img {
 /***** rest of body *****/
 
 h3 {
-  color: #BC002D;
+  color: #e72207;
   padding: 1px 0;
   margin-top: 0;
 }
